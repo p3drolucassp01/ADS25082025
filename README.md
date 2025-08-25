@@ -5,4 +5,5 @@
 # Olá, quero uma bom desempenho na faculdade!!
 
 ------------------------------
-![Alt ou título da imagem]([URL da imagem](https://www.atribuna.com.br/image/policy:1.441108:1731451446/image.jpg?&f=default))
+![Descrição da imagem](https://www.atribuna.com.br/image/policy:1.441108:1731451446/image.jpg?&f=default)
+
